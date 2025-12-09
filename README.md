@@ -95,6 +95,6 @@ Nova is a modern, multilingual AI voice assistant that brings natural conversati
 
 ### 🌟 Made with Love and AI 🤖
 
-[Live Demo](https://n0v0.netlify.app/) 
+
 
 </div>
